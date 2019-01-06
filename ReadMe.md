@@ -1,4 +1,4 @@
-# FromAPItoLocationMap
+# From API to Location Map
 
 This web application is deployed on AWS and is on my website http://vocane.com/
 

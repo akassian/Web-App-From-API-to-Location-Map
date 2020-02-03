@@ -9,4 +9,3 @@ By default the table's rows are sorted by distance to the entered address.
 By clicking on a column's header you can sort the table's rows by this column.
 Clicking on a name of a station in the table will show this station on Google Map.
 
-This is a coding challenge from Volta Charging.
